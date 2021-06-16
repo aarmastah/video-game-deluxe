@@ -1,7 +1,0 @@
-08/20/2020
-Version 2.5 has been released. The most notable changes are listed here:
-
-
-- Removed Serri's FamiTracker soundtrack
-- Replaced Terri with Debug Cat
-- Updated Clownacy's mods and mod loader
