@@ -1,0 +1,17 @@
+03:39:32.549 Process path: C:\Users\Aar\Documents\0 CS Stuff\0 Mods\0 My Mods\2021 onward\video game deluxe\game.exe
+03:39:32.549 Environment variable __COMPAT_LAYER = ""
+03:39:32.549 Loading DDrawCompat statically from C:\Users\Aar\Documents\0 CS Stuff\0 Mods\0 My Mods\2021 onward\video game deluxe\DDRAW.dll
+03:39:32.565 DDrawCompat loaded successfully
+03:39:33.646 Installing display mode hooks
+03:39:33.653 Installing registry hooks
+03:39:33.653 Installing Direct3D driver hooks
+03:39:33.653 Installing Win32 hooks
+03:39:33.664 Hooking user mode display driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_b2801df14ec7de03\nvldumd.dll+0x9840
+03:39:33.751 Dynamic vertex buffers are available
+03:39:33.752 Dynamic index buffers are available
+03:39:33.754 Checking source color key support: passed
+03:39:33.756 Installing DirectDraw hooks
+03:39:33.757 Installing Direct3D hooks
+03:39:33.759 Installing GDI hooks
+03:39:33.764 Finished installing hooks
+03:39:38.328 DDrawCompat detached successfully
